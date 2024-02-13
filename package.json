@@ -2,7 +2,7 @@
   "name": "test-double-pizza",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://nahirniy.github.io/test-double-pizza ",
+  "homepage": "https://nahirniy.github.io/test-double-pizza",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
