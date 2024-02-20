@@ -1,5 +1,5 @@
 import { FC } from "react";
-tyimport { createPortal } from "react-dom";
+import { createPortal } from "react-dom";
 import { IOrder } from "../../types/types";
 import s from "./Modal.module.css";
 
