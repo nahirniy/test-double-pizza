@@ -1,0 +1,22 @@
+.header {
+  background: orange;
+  padding: 20px 60px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.link {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  font-size: 24px;
+  text-decoration: none;
+  color: inherit;
+}
+
+.button {
+  background-color: inherit;
+  border: none;
+  cursor: pointer;
+}
